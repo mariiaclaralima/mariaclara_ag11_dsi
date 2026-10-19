@@ -1,4 +1,4 @@
-<div aling="center" />
+<div aling="center">
 
 ![Identificação](https://img.shields.io/badge/projeto%20escolar-000000?style=for-the-badge&color=%23FF82AB)
 
@@ -21,5 +21,5 @@ Este projeto tem como objetivo utilizar uma biblioteca para colorir as letras no
 ## Teste
 Imagem do teste com os 5 níveis
 
-<img aling="right" height="300" src="https://imgur.com/gallery/teste-2-jRVwxnh#zohFFPu.png"  />
+<img aling="right" height="300" src="https://i.imgur.com/zohFFPu_d.webp?maxwidth=760&fidelity=grand.png"  />
 
