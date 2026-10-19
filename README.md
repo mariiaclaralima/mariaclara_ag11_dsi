@@ -10,7 +10,7 @@
 Este projeto tem como objetivo utilizar uma biblioteca para colorir as letras no terminal de acordo com o nível da água de um reservatório.
 
 ## Código passo a passo
-  Na parte inicial do código, a biblioteca **colorama** é importada e o nível do reservatório é coletado. Após isso, é verificado com a estruturas condicionais o nível e uma frase é mostrada com sua respectiva cor.
+  Na parte inicial do código, a biblioteca **colorama** é importada e o nível do reservatório é coletado. Após isso, é verificado, com a estruturas condicionais, o nível e uma frase é mostrada com sua respectiva cor.
 
 ## Linguagem utilizada
 <div style="display: inline_block"><br>
@@ -21,4 +21,4 @@ Este projeto tem como objetivo utilizar uma biblioteca para colorir as letras no
 ## Teste
 Imagem do teste com os 5 níveis
 
-<img aling="right" height="300" src="https://.png"  />
+<img aling="right" height="300" src="https://imgur.com/a/jRVwxnh.png"  />
