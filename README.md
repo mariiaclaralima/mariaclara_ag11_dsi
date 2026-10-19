@@ -21,4 +21,4 @@ Este projeto tem como objetivo utilizar uma biblioteca para colorir as letras no
 ## Teste
 Imagem do teste com os 5 níveis
 
-<img aling="right" height="300" src="https://i.imgur.com/gallery/teste-2-jRVwxnh#zohFFPu"  />
+<img aling="right" height="300" src="https://imgur.com/a/jRVwxnh"  />
